@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    /* padding-bottom: 100px; */
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: orange;
+}
+.mission-heading{
+    text-align: center;
+}
+.heading{
+    border-left: 3px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.firstimg{
+    width: 25%;
+    padding-left: 150px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.scroll{
+    margin-left: 130px;
+}
+.my-mission{
+    text-align: center;
+}
+.mission{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding: 1%;
+    border-radius: 5%;
+}
+.illustration{
+    width: 30%;
+}
+.secondimg{
+    width: 50%;
+    margin-left: -38px;
+}
+#develop{
+    float: left;
+    margin-left: -220px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+#develop1{
+    margin-top: 100px;
+}
+#div1{
+    margin-top: 20px;
+}
+.community{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#color1{
+    background-color: antiquewhite;
+}
+#color2{
+    background-color: aquamarine;
+}
+#color3{
+    background-color: rgb(236, 162, 72);
+}
